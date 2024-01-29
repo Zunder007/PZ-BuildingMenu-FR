@@ -52,7 +52,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Exterior_Arched_Windows = "Murs d'extérieurs cintrés avec fenêtres",
 
     IGUI_BuildingMenuSubCat_Walls_PileoCrepe = "Murs Pile o Crepe",
-    IGUI_BuildingMenuSubCat_Walls_Diner_Walls = "Murs du Diner",
+    IGUI_BuildingMenuSubCat_Walls_Diner_Walls = "Murs de restaurant",
     IGUI_BuildingMenuSubCat_Walls_Spiffos_Walls = "Murs Spiffos",
     IGUI_BuildingMenuSubCat_Walls_Fossoil_Walls = "Murs Fossoil",
     IGUI_BuildingMenuSubCat_Walls_Gas2Go_Walls = "Murs Gas 2 Go",
