@@ -68,12 +68,12 @@ IGUI_FR = {
 
     IGUI_BuildingMenuCat_Roofing = "Toiture",
     IGUI_BuildingMenuSubCat_Roofing_Black_Roofs = "Toits noirs",
-    IGUI_BuildingMenuSubCat_Roofing_Brown_Shingles_Roofs = "Toits de bardeaux bruns",
+    IGUI_BuildingMenuSubCat_Roofing_Brown_Shingles_Roofs = "Toits en bardeaux bruns",
     IGUI_BuildingMenuSubCat_Roofing_Light_Brown_Roofs = "Toits marron clair",
     IGUI_BuildingMenuSubCat_Roofing_Pink_Roofs = "Toits roses",
     IGUI_BuildingMenuSubCat_Roofing_Green_Roofs = "Toits verts",
     IGUI_BuildingMenuSubCat_Roofing_Grey_Roofs = "Toits gris",
-    IGUI_BuildingMenuSubCat_Roofing_Brown_Shakes_Roofs = "Toits de bardeaux fendus bruns",
+    IGUI_BuildingMenuSubCat_Roofing_Brown_Shakes_Roofs = "Toits en bardeaux fendus bruns",
     IGUI_BuildingMenuSubCat_Roofing_Glass_Roofs = "Toits en verre",
     IGUI_BuildingMenuSubCat_Roofing_Tent_Roofs = "Toits de tente",
     
