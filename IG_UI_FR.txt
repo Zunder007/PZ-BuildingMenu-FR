@@ -22,7 +22,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Brown_Brick = "Brique brune",
 
     IGUI_BuildingMenuSubCat_Walls_Blue_Clapboard = "Parement bleu",
-    IGUI_BuildingMenuSubCat_Walls_Tan_Clapboard = "Parement calcaire",
+    IGUI_BuildingMenuSubCat_Walls_Tan_Clapboard = "Parement beige",
     IGUI_BuildingMenuSubCat_Walls_Pink_Clapboard = "Parement rose"
     IGUI_BuildingMenuSubCat_Walls_Turquoise_Clapboard = "Parement turquoise",
     IGUI_BuildingMenuSubCat_Walls_White_Wide_Clapboard = "Parement large blanc",
@@ -51,7 +51,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Interior_Arched_Windows = "Murs d'intérieurs cintrés avec fenêtres",
     IGUI_BuildingMenuSubCat_Walls_Exterior_Arched_Windows = "Murs d'extérieurs cintrés avec fenêtres",
 
-    IGUI_BuildingMenuSubCat_Walls_PileoCrepe = "Murs Pile o Crepe",
+    IGUI_BuildingMenuSubCat_Walls_PileoCrepe = "Murs Pile o Crêpe",
     IGUI_BuildingMenuSubCat_Walls_Diner_Walls = "Murs de restaurant",
     IGUI_BuildingMenuSubCat_Walls_Spiffos_Walls = "Murs Spiffos",
     IGUI_BuildingMenuSubCat_Walls_Fossoil_Walls = "Murs Fossoil",
@@ -80,7 +80,7 @@ IGUI_FR = {
     IGUI_BuildingMenuCat_Doors = "Portes",
     IGUI_BuildingMenuSubCat_Doors_Wooden_Doors = "Portes en bois",
     IGUI_BuildingMenuSubCat_Doors_Low_Doors = "Portes basses",
-    IGUI_BuildingMenuSubCat_Doors_Panel_Doors = "Portes à panneaux",
+    IGUI_BuildingMenuSubCat_Doors_Panel_Doors = "Portes de clôture",
     IGUI_BuildingMenuSubCat_Doors_Metal_Doors = "Portes métalliques",
     IGUI_BuildingMenuSubCat_Doors_Jail_Doors = "Portes de prison",
     IGUI_BuildingMenuSubCat_Doors_Glass_Doors = "Portes en verre",
