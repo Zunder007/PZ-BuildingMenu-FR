@@ -105,7 +105,7 @@ IGUI_FR = {
     IGUI_BuildingMenuCat_Fencing = "Clôture",
     IGUI_BuildingMenuSubCat_Fencing_Fencing_High = "Haute",
     IGUI_BuildingMenuSubCat_Fencing_Fencing_Low = "Basse",
-    IGUI_BuildingMenuSubCat_Fencing_Railing = "Balustrade",
+    IGUI_BuildingMenuSubCat_Fencing_Railing = "Rampe",
     IGUI_BuildingMenuSubCat_Fencing_Other = "Autre",
 
     IGUI_BuildingMenuCat_Floors = "Sols",
