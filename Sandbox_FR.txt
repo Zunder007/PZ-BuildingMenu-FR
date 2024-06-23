@@ -1,8 +1,12 @@
 Sandbox_FR = {
+
     Sandbox_BuildingMenu = "Menu de construction",
     Sandbox_BuildingMenu_isThumpable = "Structures pouvant être fracassée",
     Sandbox_BuildingMenu_isThumpable_tooltip = "Sélectionner <SPACE><RGB:1,0.8,0> DÉSACTIVÉ <RGB:1,1,1><SPACE> pour rendre les structures construites à l'aide du Menu de construction immunisées contre les dégâts des zombies.",
     
+
+    Sandbox_BuildingMenu_EmptyBox = "",
+    Sandbox_BuildingMenu_EmptyBox_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
 
 
     Sandbox_BuildingMenu_WallsCategoryDivider = "_______________ Catégorie Murs _______________",
@@ -147,6 +151,14 @@ Sandbox_FR = {
    
 
 
+    Sandbox_BuildingMenu_RecreationalCategoryDivider = "_____________ Catégorie Récréatif _____________",
+    Sandbox_BuildingMenu_RecreationalCategoryDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
+
+    Sandbox_BuildingMenu_musicSubCategory = "Activer la sous-catégorie Musique",
+    Sandbox_BuildingMenu_musicSubCategory_tooltip = "Permet d'ajouter des juke-box, des pianos et autres. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
+
+
+
     Sandbox_BuildingMenu_FurnitureCategoryDivider = "_____________ Catégorie Meubles _____________",
     Sandbox_BuildingMenu_FurnitureCategoryDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
  
@@ -172,6 +184,9 @@ Sandbox_FR = {
  
     Sandbox_BuildingMenu_rugsSubCategory = "Activer la sous-catégorie des tapis",
     Sandbox_BuildingMenu_rugsSubCategory_tooltip = "Permet d'ajouter des tapis. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
+
+    Sandbox_BuildingMenu_curtainsSubCategory = "Activer la sous-catégorie des rideaux",
+    Sandbox_BuildingMenu_curtainsSubCategory_tooltip = "Permet d'ajouter des rideaux. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
    
     Sandbox_BuildingMenu_postersAndSignsSubCategory = "Activer la sous-catégorie des affiches et panneaux",
     Sandbox_BuildingMenu_postersAndSignsSubCategory_tooltip = "Permet d'ajouter des affiches et des panneaux. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
@@ -213,6 +228,8 @@ Sandbox_FR = {
     Sandbox_BuildingMenu_metalDrums = "Activer les fûts en métal",
     Sandbox_BuildingMenu_metalDrums_tooltip = "Permet d'ajouter des fûts métalliques. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
 
+    Sandbox_BuildingMenu_waterWell = "Activer les puits à eau",
+    Sandbox_BuildingMenu_waterWell_tooltip = "Permet d'ajouter des puits à eau. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
 
 
     Sandbox_BuildingMenu_AppliancesCategoryDivider = "____________ Catégorie Appareils électroménagers ____________",
@@ -233,4 +250,133 @@ Sandbox_FR = {
     Sandbox_BuildingMenu_laundryAppliances = "Activer la sous-catégorie des appareils de blanchisserie",
     Sandbox_BuildingMenu_laundryAppliances_tooltip = "Permet d'ajouter des laveuses et des sécheuses. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT !",
     
+
+
+
+    Sandbox_BuildingMenuRecipes = "Recettes du Menu de construction",
+
+    Sandbox_BuildingMenuRecipes_MaterialsDivider = "____________ Matériaux ____________",
+    Sandbox_BuildingMenuRecipes_MaterialsDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
+
+    Sandbox_UsePaint = "Utiliser de la peinture dans les recettes",
+    Sandbox_UsePaint_tooltip = "Désactiver pour supprimer la peinture des recettes, celles avec de la peinture comme seul ingrédient resteront. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1><LINE>",
+
+    Sandbox_PaintUses = "Utilisation des pots de peinture",
+    Sandbox_PaintUses_tooltip = "Utilisations par pot de peinture. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+    Sandbox_BlowTorchUses = "Utilisation du chalumeau",
+    Sandbox_BlowTorchUses_tooltip = "Utilisations par chalumeau. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+    Sandbox_BucketAsphaltMixtureUses = "Utilisation d'un seau avec mélange d'asphalte",
+    Sandbox_BucketAsphaltMixtureUses_tooltip = "Utilisations par seau avec mélange d'asphalte. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+    Sandbox_BucketConcreteUses = "Utilisation d'un seau avec du béton",
+    Sandbox_BucketConcreteUses_tooltip = "Utilisations par seau avec du béton. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+
+    Sandbox_BuildingMenuRecipes_deltaUses_option1 = "4 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option2 = "8 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option3 = "10 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option4 = "14 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option5 = "18 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option6 = "22 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option7 = "26 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option8 = "28 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option9 = "45 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option10 = "60 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option11 = "80 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option12 = "100 Utilisations",
+    Sandbox_BuildingMenuRecipes_deltaUses_option13 = "Utilisations infinies",
+
+
+    Sandbox_BuildingMenuRecipes_bigWallWoodCount = "Coût en matériel bois pour les GRANDS murs",
+    Sandbox_BuildingMenuRecipes_bigWallWoodCount_tooltip = "Définit le bois nécessaire pour les GRANDS murs. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_bigWallNailsCount = "Coût en matériel clous pour les GRANDS murs",
+    Sandbox_BuildingMenuRecipes_bigWallNailsCount_tooltip = "Définit les clous nécessaires pour les GRANDS murs. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_smallWallWoodCount = "Coût en matériel bois pour les PETITS murs",
+    Sandbox_BuildingMenuRecipes_smallWallWoodCount_tooltip = "Définit le bois nécessaire pour les PETITS murs. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_smallWallNailsCount = "Coût en matériel clous pour les PETITS murs",
+    Sandbox_BuildingMenuRecipes_smallWallNailsCount_tooltip = "Définit les clous nécessaires pour les PETITS murs. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_bigObjectsWoodCount = "Coût en matériel bois pour les GROS objets",
+    Sandbox_BuildingMenuRecipes_bigObjectsWoodCount_tooltip = "Définit le bois nécessaire pour les GROS objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_bigObjectsNailsCount = "Coût en matériel clous pour les GROS objets",
+    Sandbox_BuildingMenuRecipes_bigObjectsNailsCount_tooltip = "Définit les clous nécessaire pour les GROS objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_smallObjectsWoodCount = "Coût en matériel bois pour les PETITS objets",
+    Sandbox_BuildingMenuRecipes_smallObjectsWoodCount_tooltip = "Définit le bois nécessaire pour les PETITS objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_smallObjectsNailsCount = "Coût en matériel clous pour les PETITS objets",
+    Sandbox_BuildingMenuRecipes_smallObjectsNailsCount_tooltip = "Définit les clous nécessaire pour les PETITS objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+
+    Sandbox_BuildingMenuRecipes_glassPaneCount = "Coût en matériel vitre",
+    Sandbox_BuildingMenuRecipes_glassPaneCount_tooltip = "Définit les vitres nécessaires. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_metalBarsCount = "Coût en matériel barres métalliques",
+    Sandbox_BuildingMenuRecipes_metalBarsCount_tooltip = "Définit les barres métalliques nécessaires. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_screwsCount = "Coût en matériel vis",
+    Sandbox_BuildingMenuRecipes_screwsCount_tooltip = "Définit les vis nécessaires. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_scrapMetalCountForFences = "Coût en ferraille pour les clôtures",
+    Sandbox_BuildingMenuRecipes_scrapMetalCountForFences_tooltip = "Définit la ferraille nécessaire pour les clôtures. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_scrapMetalCountForElectrical = "Coût en ferraille pour les objets électriques",
+    Sandbox_BuildingMenuRecipes_scrapMetalCountForElectrical_tooltip = "Définit la ferraille nécessaire pour les objets électriques. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForWalls = "Coût en tôle pour les MURS",
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForWalls_tooltip = "Définit la tôle nécessaire pour les MURS. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForDoors = "Coût en tôle pour les PORTES",
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForDoors_tooltip = "Définit la tôle nécessaire pour les PORTES. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForContainers = "Coût en tôle pour les CONTENEURS",
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForContainers_tooltip = "Définit la tôle nécessaire pour les CONTENEURS. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForFixturesAndAppliances = "Coût en tôle pour les LUMINAIRES et APPAREILS",
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForFixturesAndAppliances_tooltip = "Définit la tôle nécessaire pour les LUMINAIRES et les APPAREILS. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForRoofingAndFloors = "Coût en tôle pour les TOITURES et SOLS",
+    Sandbox_BuildingMenuRecipes_sheetMetalCountForRoofingAndFloors_tooltip = "Définit la tôle nécessaire pour les TOITURES et les SOLS. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+
+    Sandbox_BuildingMenuRecipes_SkillsDivider = "____________ Compétences ____________",
+    Sandbox_BuildingMenuRecipes_SkillsDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
+
+    Sandbox_BuildingMenuRecipes_bigObjectsCarpentrySkill = "Niveau de menuiserie pour GROS objets",
+    Sandbox_BuildingMenuRecipes_bigObjectsCarpentrySkill_tooltip = "Définit le niveau de menuiserie nécessaire pour les GRANDS objets. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_smallObjectsCarpentrySkill = "Niveau de menuiserie pour PETITS objets",
+    Sandbox_BuildingMenuRecipes_smallObjectsCarpentrySkill_tooltip = "Définit le niveau de menuiserie nécessaire pour les PETITS objets. <LINE> S'échelonne en fonction de la taille et du type d'objet. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_carpentryXpPerLevel = "Gain d'XP en menuiserie par niveau",
+    Sandbox_BuildingMenuRecipes_carpentryXpPerLevel_tooltip = "Gain d'XP par niveau de menuiserie lors de la construction d'objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_metalweldingXpPerLevel = "Gain d'XP en travail des métaux par niveau",
+    Sandbox_BuildingMenuRecipes_metalweldingXpPerLevel_tooltip = "Gain d'XP par niveau de travail des métaux lors de la construction d'objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_electricalXpPerLevel = "Gain d'XP en électricité par niveau",
+    Sandbox_BuildingMenuRecipes_electricalXpPerLevel_tooltip = "Gain d'XP par niveau d'électricité lors de la construction d'objets. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+    Sandbox_BuildingMenuRecipes_SpecialObjectsRecipesDivider = "____________ Recettes d'objets spéciaux ____________",
+    Sandbox_BuildingMenuRecipes_SpecialObjectsRecipesDivider_tooltip = "Il ne s'agit que d'un séparateur de ligne, le cocher n'a aucun effet.",
+
+    Sandbox_BuildingMenuRecipes_maxWaterWellStorageAmount = "Quantité maximale de stockage d'un puits à eau",
+    Sandbox_BuildingMenuRecipes_maxWaterWellStorageAmount_tooltip = "Combien d'eau un puits peut-il contenir.",
+    
+    Sandbox_BuildingMenuRecipes_plankCountForMilitaryCrate = "Coût en bois pour une caisse militaire",
+    Sandbox_BuildingMenuRecipes_plankCountForMilitaryCrate_tooltip = "Définit la quantité de planches requises pour les caisses militaires. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_nailsCountForMilitaryCrate = "Coût en clous pour une caisse militaire",
+    Sandbox_BuildingMenuRecipes_nailsCountForMilitaryCrate_tooltip = "Définit la quantité de clous requis pour les caisses militaires. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+    
+    Sandbox_BuildingMenuRecipes_militaryCrateCarpentrySkill = "Niveau de menuiserie pour une caisse militaire",
+    Sandbox_BuildingMenuRecipes_militaryCrateCarpentrySkill_tooltip = "Définit le niveau de menuiserie nécessaire pour les caisses militaires. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
+
+
 }
