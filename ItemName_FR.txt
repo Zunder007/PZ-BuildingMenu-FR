@@ -1,0 +1,12 @@
+ItemName_FR = {
+	ItemName_Base.AsphaltMixturePowder = "Sac de poudre de mélange d'asphalte",
+	ItemName_Base.BMMagazineCars = "Vitrage de précision pour véhicules et leur fabrication",
+	ItemName_Base.BMMagazineGlass = "Le coin du bricoleur: Les fours de cuisine",
+	ItemName_Base.BMMagazineSecretEntrances = "Le mensuel des Passages secrets",
+	ItemName_Base.BucketAsphaltMixtureFull = "Seau de mélange d'asphalte",
+	ItemName_Base.GlassPane = "Vitre",
+	ItemName_Base.PanWithGlassPane = "Poêle avec vitre",
+	ItemName_Base.PanWithGlassShards = "Poêle avec des éclats de verre",
+	ItemName_Base.PlankFloor = "Planche pour sol",
+	ItemName_Base.PlankWall = "Planche pour mur",
+}
