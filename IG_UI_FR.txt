@@ -2,13 +2,13 @@ IGUI_FR = {
 
     IGUI_BuildingMenu = "Menu de construction",
 
-    IGUI_BuildingMenuUI_Controls = "%1/%2 = Changer de catégorie %3/%4 = Changer d'onglets F = Catégorie favorite ESC = Fermer",
+    IGUI_BuildingMenuUI_Controls = "%1/%2 = Changer de catégorie %3/%4 = Changer d'onglet F = Catégorie favorite ESC = Fermer",
 
 
     IGUI_BuildingMenuUI_ShowItemIcons = "Afficher les icônes des éléments",
-    IGUI_BuildingMenuUI_ShowItemIcons_ToolTip = "Basculez pour afficher ou masquer les icônes d’éléments dans l’info-bulle.",
+    IGUI_BuildingMenuUI_ShowItemIcons_ToolTip = "Basculer pour afficher ou masquer les icônes d’éléments dans l’info-bulle.",
     IGUI_BuildingMenuUI_IconScale = "Taille de l'icône de l'élément",
-    IGUI_BuildingMenuUI_IconScale_ToolTip = "Ajuste la taille des icônes d'éléments affichées dans les info-bulles. <BR> Une échelle de « 1 » conserve la taille d'origine de l'icône (20 pixels), tandis que « 2 » la double.",
+    IGUI_BuildingMenuUI_IconScale_ToolTip = "Ajuste la taille des icônes d'éléments affichées dans les info-bulles. <BR> Une échelle de '1' conserve la taille d'origine de l'icône (20 pixels), tandis que '2' la double.",
 
     IGUI_BuildingMenuUI_Move_UI = "Déplacer la fenêtre",
     IGUI_BuildingMenuUI_Stop_Move_UI = "Arrêter de déplacer la fenêtre",
@@ -17,12 +17,12 @@ IGUI_FR = {
     IGUI_BuildingMenuUI_Close = "Fermer",
 
     IGUI_BuildingMenuUI_Tab_Left = "Onglet Gauche",
-    IGUI_BuildingMenuUI_Tab_Right = "Onglet à droite",
+    IGUI_BuildingMenuUI_Tab_Right = "Onglet Droit",
     
     IGUI_BuildingMenuUI_List_Left = "Liste gauche",
-    IGUI_BuildingMenuUI_List_Right = "Liste à droite",
-    IGUI_BuildingMenuUI_List_Up = "Lister jusqu'à",
-    IGUI_BuildingMenuUI_List_Down = "Liste vers le bas",
+    IGUI_BuildingMenuUI_List_Right = "Liste droite",
+    IGUI_BuildingMenuUI_List_Up = "Lister haut",
+    IGUI_BuildingMenuUI_List_Down = "Liste bas",
 
 
     IGUI_BuildingMenuTab_Favorite = "Favoris",
@@ -44,15 +44,15 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_White_Brick = "Brique blanche",
     IGUI_BuildingMenuSubCat_Walls_Green_Brick = "Brique verte",
     IGUI_BuildingMenuSubCat_Walls_Brown_Brick = "Brique brune",
-    IGUI_BuildingMenuSubCat_Walls_Classic_Brick = "Classic Brick",
+    IGUI_BuildingMenuSubCat_Walls_Classic_Brick = "Brique classique",
 
-    IGUI_BuildingMenuSubCat_Walls_Blue_Clapboard = "Parement bleu",
-    IGUI_BuildingMenuSubCat_Walls_Tan_Clapboard = "Parement beige",
-    IGUI_BuildingMenuSubCat_Walls_Pink_Clapboard = "Parement rose"
-    IGUI_BuildingMenuSubCat_Walls_Turquoise_Clapboard = "Parement turquoise",
-    IGUI_BuildingMenuSubCat_Walls_White_Wide_Clapboard = "Parement large blanc",
-    IGUI_BuildingMenuSubCat_Walls_White_Clapboard = "Parement blanc",
-    IGUI_BuildingMenuSubCat_Walls_Brown_Clapboard = "Parement marron",
+    IGUI_BuildingMenuSubCat_Walls_Blue_Clapboard = "Bardeau bleu",
+    IGUI_BuildingMenuSubCat_Walls_Tan_Clapboard = "Bardeau beige",
+    IGUI_BuildingMenuSubCat_Walls_Pink_Clapboard = "Bardeau rose"
+    IGUI_BuildingMenuSubCat_Walls_Turquoise_Clapboard = "Bardeau turquoise",
+    IGUI_BuildingMenuSubCat_Walls_White_Wide_Clapboard = "Bardeau large blanc",
+    IGUI_BuildingMenuSubCat_Walls_White_Clapboard = "Bardeau blanc",
+    IGUI_BuildingMenuSubCat_Walls_Brown_Clapboard = "Bardeau marron",
     
     IGUI_BuildingMenuSubCat_Walls_White_Panel = "Panneau blanc",
     IGUI_BuildingMenuSubCat_Walls_Wooden_Panel = "Panneau en bois",
@@ -61,7 +61,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Brown_Panel = "Panneau marron",
     IGUI_BuildingMenuSubCat_Walls_Fancy_Wood_Panel = "Panneau de bois fantaisie",
 
-    IGUI_BuildingMenuSubCat_Walls_Bathroom_Medium_Tiles = "Bathroom Medium Tiles",
+    IGUI_BuildingMenuSubCat_Walls_Bathroom_Medium_Tiles = "Carrelage de salle de bain de taille moyenne",
 
     IGUI_BuildingMenuSubCat_Walls_White_Cinderblock = "Parpaing blanc",
     IGUI_BuildingMenuSubCat_Walls_Brown_Cinderblock = "Parpaing marron",
@@ -75,8 +75,8 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Painted_Purple = "Peint en violet",
     IGUI_BuildingMenuSubCat_Walls_Painted_Pink = "Peint en rose",
     IGUI_BuildingMenuSubCat_Walls_Painted_Other_Colours = "Peint en d'autres couleurs",
-    IGUI_BuildingMenuSubCat_Walls_Interior_Arched_Windows = "Murs d'intérieurs cintrés avec fenêtres",
-    IGUI_BuildingMenuSubCat_Walls_Exterior_Arched_Windows = "Murs d'extérieurs cintrés avec fenêtres",
+    IGUI_BuildingMenuSubCat_Walls_Interior_Arched_Windows = "Murs intérieurs cintrés avec fenêtres",
+    IGUI_BuildingMenuSubCat_Walls_Exterior_Arched_Windows = "Murs extérieurs cintrés avec fenêtres",
 
     IGUI_BuildingMenuSubCat_Walls_PileoCrepe = "Murs Pile o Crêpe",
     IGUI_BuildingMenuSubCat_Walls_Diner_Walls = "Murs de restaurant",
@@ -90,7 +90,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Walls_Industrial_Walls = "Murs industriels",
     IGUI_BuildingMenuSubCat_Walls_Brown_Frame_Glass = "Cadre de vitre marron",
     IGUI_BuildingMenuSubCat_Walls_Black_Frame_Glass = "Cadre de vitre noir",
-    IGUI_BuildingMenuSubCat_Walls_Grey_Frame_Glass = "Grey Frame Glass",
+    IGUI_BuildingMenuSubCat_Walls_Grey_Frame_Glass = "Cadre de vitre gris",
     IGUI_BuildingMenuSubCat_Walls_Sewer_Walls = "Murs d'égout",
     IGUI_BuildingMenuSubCat_Walls_Tent_Walls = "Murs de tente",
 
@@ -101,7 +101,7 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Roofing_Pink_Roofs = "Toits roses",
     IGUI_BuildingMenuSubCat_Roofing_Green_Roofs = "Toits verts",
     IGUI_BuildingMenuSubCat_Roofing_Grey_Roofs = "Toits gris",
-    IGUI_BuildingMenuSubCat_Roofing_Brown_Shakes_Roofs = "Toits en bardeaux fendus bruns",
+    IGUI_BuildingMenuSubCat_Roofing_Brown_Shakes_Roofs = "Toits en bardeaux bruns",
     IGUI_BuildingMenuSubCat_Roofing_Glass_Roofs = "Toits en verre",
     IGUI_BuildingMenuSubCat_Roofing_Tent_Roofs = "Toits de tente",
     
@@ -114,20 +114,20 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Doors_Glass_Doors = "Portes en verre",
     IGUI_BuildingMenuSubCat_Doors_Security_Doors = "Portes de sécurité",
     
-    IGUI_BuildingMenuSubCat_Doors_Sliding_Doors = "Sliding Doors",
+    IGUI_BuildingMenuSubCat_Doors_Sliding_Doors = "Portes coulissantes",
 
     IGUI_BuildingMenuSubCat_Doors_3_Tiles_Garage_Doors = "Portes de garage 3 cases",
     IGUI_BuildingMenuSubCat_Doors_4_Tiles_Garage_Doors = "Portes de garage 4 cases",
-    IGUI_BuildingMenuSubCat_Double_Door_Gates = "Double Door Gates",
+    IGUI_BuildingMenuSubCat_Double_Door_Gates = "Portails à double porte",
 
     IGUI_BuildingMenuCat_ArchitecturePlus = "Architecture Plus",
     IGUI_BuildingMenuSubCat_ArchitecturePlus_Door_Trims = "Garnitures de porte",
-    IGUI_BuildingMenuSubCat_ArchitecturePlus_Crown_Molding = "Moulure de couronne",
+    IGUI_BuildingMenuSubCat_ArchitecturePlus_Crown_Molding = "Moulure en couronne",
     IGUI_BuildingMenuSubCat_ArchitecturePlus_Edge_Detailing = "Détails des bords",
     IGUI_BuildingMenuSubCat_ArchitecturePlus_Floor_Molding = "Moulure de sol",
     IGUI_BuildingMenuSubCat_ArchitecturePlus_Wall_Panels = "Panneaux muraux",
-    IGUI_BuildingMenuSubCat_ArchitecturePlus_Foundation = "Foundation",
-    IGUI_BuildingMenuSubCat_ArchitecturePlus_Roof_Accents = "Accents de toit",
+    IGUI_BuildingMenuSubCat_ArchitecturePlus_Foundation = "Fondation",
+    IGUI_BuildingMenuSubCat_ArchitecturePlus_Roof_Accents = "Ornements de toit",
 
     IGUI_BuildingMenuCat_Windows = "Fenêtres",
     IGUI_BuildingMenuSubCat_Windows_Wooden_Windows = "En bois",
@@ -138,7 +138,7 @@ IGUI_FR = {
     IGUI_BuildingMenuCat_Fencing = "Clôture",
     IGUI_BuildingMenuSubCat_Fencing_Fencing_High = "Haute",
     IGUI_BuildingMenuSubCat_Fencing_Fencing_Low = "Basse",
-    IGUI_BuildingMenuSubCat_Fencing_Railing = "Rampe",
+    IGUI_BuildingMenuSubCat_Fencing_Railing = "Garde-corps",
     IGUI_BuildingMenuSubCat_Fencing_Stair_Railings = "Rampes d'escalier",
     IGUI_BuildingMenuSubCat_Fencing_Other = "Autre",
 
@@ -159,7 +159,7 @@ IGUI_FR = {
     IGUI_BuildingMenuCat_Road_Work = "Travaux routiers",
     IGUI_BuildingMenuSubCat_Road_Work_Asphalt = "Travaux routiers Asphalte",
     IGUI_BuildingMenuSubCat_Road_Work_Dirt = "Travaux routiers Saleté",
-    IGUI_BuildingMenuSubCat_Street_Overlay = "Superpositions de rues",
+    IGUI_BuildingMenuSubCat_Street_Overlay = "Superpositions de rue",
     IGUI_BuildingMenuSubCat_Floor_Overlay = "Superpositions de sol",
     IGUI_BuildingMenuSubCat_Road_Work_Sidewalk_Edge = "Bord de trottoir",
     IGUI_BuildingMenuSubCat_Road_Work_Painted_White_Line = "Peinture ligne blanche",
@@ -181,8 +181,8 @@ IGUI_FR = {
     IGUI_BuildingMenuSubCat_Containers_Trash_Cans = "Poubelles",
     IGUI_BuildingMenuSubCat_Containers_Others = "Autres",
 
-    IGUI_BuildingMenuCat_Recreational = "Recreational",
-    IGUI_BuildingMenuSubCat_Recreational_Music = "Music",
+    IGUI_BuildingMenuCat_Recreational = "Récréatif",
+    IGUI_BuildingMenuSubCat_Recreational_Music = "Musique",
 
     IGUI_BuildingMenuCat_Furniture = "Meubles",
     IGUI_BuildingMenuSubCat_Furniture_Small_Tables = "Petites tables",
