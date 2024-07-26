@@ -2043,4 +2043,7 @@ Tooltip_FR = {
   Tooltip_Mannequin = "Un mannequin pour exposer des vêtements et des équipements.",
   Tooltip_ClothesStand = "Un porte-vêtements pour organiser votre tenue.",
 
+	Tooltip_BuildingMenuObj_Medium_Asphalt_Edge = "Bordure d'asphalte moyenne",
+	Tooltip_BuildingMenuObj_Dark_Asphalt_Edge = "Bordure d'asphalte foncée",
+	Tooltip_BuildingMenuObj_Old_Asphalt_Edge = "Bordure d'asphalte ancienne",
 }
