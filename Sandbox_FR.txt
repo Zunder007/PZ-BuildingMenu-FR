@@ -378,5 +378,8 @@ Sandbox_FR = {
     Sandbox_BuildingMenuRecipes_militaryCrateCarpentrySkill = "Niveau de menuiserie pour une caisse militaire",
     Sandbox_BuildingMenuRecipes_militaryCrateCarpentrySkill_tooltip = "Définit le niveau de menuiserie nécessaire pour les caisses militaires. <LINE><LINE> <RGB:1,0,0> NÉCESSITE UN REDÉMARRAGE DU JEU COTÉ CLIENT ! <RGB:1,1,1>",
 
-
+	Sandbox_BuildingMenuRecipes_waterWellRainIntensityMul = "Multiplicateur d'intensité de pluie pour les puits",
+	Sandbox_BuildingMenuRecipes_waterWellRainIntensityMul_tooltip = "Multiplicateur de la quantité d'eau ajoutée au puits pendant la pluie.",
+	Sandbox_BuildingMenuRecipes_waterWellHourlyRefillRateInterval = "Intervalle horaire de remplissage du puits d'eau",
+	Sandbox_BuildingMenuRecipes_waterWellHourlyRefillRateInterval_tooltip = "Plage de quantité d'eau ajoutée au puits chaque heure. Par exemple '1;5' générera un nombre aléatoire entre 1 et 5, '5' générera toujours 5 unités d'eau. Par défaut=1;5",
 }
